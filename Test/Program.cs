@@ -6,14 +6,15 @@ namespace Test
     {
         static void Main(string[] args)
         {
-<<<<<<< HEAD
+
+
+
+            Console.WriteLine("Введите А:");
+            int a = Int32.Parse(Console.ReadLine());
+
             int f = a / b;
             Console.WriteLine("=" + f);
 
-=======
-            Console.WriteLine("Введите А:");
-            int a = Int32.Parse(Console.ReadLine());
->>>>>>> A
         }
     }
 }
