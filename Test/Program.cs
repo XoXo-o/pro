@@ -22,6 +22,10 @@ namespace Test
             int d = a - b;
             Console.WriteLine("=" + d);
 
+            int e = a * b;
+            Console.WriteLine("=" + e);
+
+
         }
     }
 }
