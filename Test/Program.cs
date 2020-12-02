@@ -6,7 +6,9 @@ namespace Test
     {
         static void Main(string[] args)
         {
-            
+            int f = a / b;
+            Console.WriteLine("=" + f);
+
         }
     }
 }
