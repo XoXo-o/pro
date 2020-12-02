@@ -6,7 +6,8 @@ namespace Test
     {
         static void Main(string[] args)
         {
-            
+            int c = a + b;
+            Console.WriteLine("=" + c);
         }
     }
 }
